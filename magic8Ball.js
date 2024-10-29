@@ -31,7 +31,7 @@ const eightBall = '';
 //   default:
 //     eightBall = 'Invalid';
 //     break;
-// }
+// } I like this way better.
 const reply = [
   `It is certain,my friend, ${userName}`,
   ` ${userName}, It is decidedly so`,
